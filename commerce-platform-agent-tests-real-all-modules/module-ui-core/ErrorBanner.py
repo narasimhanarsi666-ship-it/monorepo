@@ -1,0 +1,1 @@
+def error(): return True
