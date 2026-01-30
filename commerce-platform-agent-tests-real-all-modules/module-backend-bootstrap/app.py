@@ -1,1 +1,0 @@
-def start(): return True

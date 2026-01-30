@@ -1,1 +1,0 @@
-def error(): return True
