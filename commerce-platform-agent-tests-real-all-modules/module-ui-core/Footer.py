@@ -1,1 +1,0 @@
-def footer(): return True

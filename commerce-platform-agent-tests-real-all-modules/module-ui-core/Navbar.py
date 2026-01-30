@@ -1,1 +1,0 @@
-def navbar(): return True

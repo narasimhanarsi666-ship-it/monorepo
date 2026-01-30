@@ -1,1 +1,0 @@
-def loader(): return True
