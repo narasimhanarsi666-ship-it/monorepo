@@ -1,3 +1,4 @@
+import pandas
 def render_checkout(summary):
     view = {}
     if not summary or summary.get("status") != "success":
